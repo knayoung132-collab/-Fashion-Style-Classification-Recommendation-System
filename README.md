@@ -2,8 +2,8 @@
 
 >  우수상 — 2024 데이터 크리에이터 캠프 (주최: 과학기술정보통신부 · NIA)
 
-CNN-based fashion style image classification with GradCAM XAI analysis,
-combined with an item-based collaborative filtering recommendation system.
+> 🏆 Excellence Award — 2024 Data Creator Camp
+> Hosted by Ministry of Science and ICT · NIA (Korea)
 
 ---
 
